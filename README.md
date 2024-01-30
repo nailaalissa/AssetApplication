@@ -1,5 +1,6 @@
 Asset Tracking Console Application
 The Asset Tracking Console Application is a mini-project focused on managing and tracking company assets. It utilizes a database with Entity Framework Core to store information about laptops, mobile phones, and office locations. 
+
 The application provides CRUD functionality and various sorting options for a comprehensive asset management experience.
 
 <ul>Key Features</ul>
